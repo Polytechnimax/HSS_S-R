@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Science&religion.aux
+The style file: alpha.bst
+Database file #1: Science&religion.bib
+Warning--I didn't find a database entry for "Revue"
+Warning--empty publisher in Vatican2
+You've used 1 entry,
+            2543 wiz_defined-function locations,
+            564 strings with 4516 characters,
+and the built_in function-call counts, 293 in all, are:
+= -- 22
+> -- 8
+< -- 1
++ -- 2
+- -- 2
+* -- 17
+:= -- 56
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 16
+empty$ -- 26
+format.name$ -- 3
+if$ -- 56
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 8
+num.names$ -- 3
+pop$ -- 9
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 7
+swap$ -- 1
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 1
+while$ -- 2
+width$ -- 2
+write$ -- 13
+(There were 2 warnings)
